@@ -5,4 +5,4 @@ A simple Python script to construct a bootable Hackintosh Install USB.
 
 ## How it works
 The script is pretty simple.
-All it does it automates the process found on [Dortania](https://dortania.gitbook.io).
+Everything the script does is just automate the steps found on the [Dortania Guide](https://dortania.gitbook.io).
