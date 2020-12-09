@@ -6,7 +6,7 @@ A simple Python script to construct a bootable Hackintosh Install USB.
 ## Development status
 **easyHackUSB** is **60%** done.
 
-**Current task:** Step 2. - Preparing the USB - Downloading OpenCore
+**Current task:** Step 2. - Preparing the USB - Downloading the bootloader
 
 ## How it works
 The script is pretty simple.
