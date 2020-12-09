@@ -7,7 +7,7 @@ The config.plist will always be the sample one that comes with the bootloader of
 If you have a system that closely resembles a Mac, Clover **might** boot macOS but OpenCore definitely will not.
 
 ## Development status
-**easyHackUSB** is **60%** done.
+**easyHackUSB** is **65%** done.
 
 **Current task:** Step 2. - Preparing the USB - Copy files to EFI according to architecture (OpenCore)
 
