@@ -9,7 +9,7 @@ If you have a system that closely resembles a Mac, Clover **might** boot macOS b
 ## Development status
 **easyHackUSB** is **60%** done.
 
-**Current task:** Step 2. - Preparing the USB - Downloading the bootloader
+**Current task:** Step 2. - Preparing the USB - Copy files to EFI according to architecture (OpenCore)
 
 ## How it works
 The script is pretty simple.
