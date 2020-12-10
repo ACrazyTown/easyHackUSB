@@ -8,9 +8,9 @@ Currently, the script can only run on macOS and can only be used to make Intel H
 The config.plist will always be the sample one that comes with the bootloader of choice (Clover/OpenCore).
 If you have a system that closely resembles a Mac, Clover **might** boot macOS but OpenCore definitely will not.
 ## Development Status
-**easyHackUSB** is **65%** done.
+**easyHackUSB** is **90%** done.
 
-**Current task:** Step 2. - Preparing USB - Downloading bootloader (Clover)
+**Current task:** Beta Testing
 
 ## How it Works
 The script is pretty simple.
