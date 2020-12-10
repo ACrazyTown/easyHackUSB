@@ -26,7 +26,7 @@ The script is laid out like this:
 ### 2. - Preparing the USB
 * Get disk number and format USB
 * Execute createinstallmedia from the installer
-* Mount EFI and download bootloader of choice **If bootloader is Clover, it's going to be downloaded according to the specified architecture**
+* Mount EFI and download bootloader of choice **NOTE: Clover will not work on 32bit computers**
 * Move bootloader from temp directory to USB
 ### 3. - Finishing up
 * Download and move essential kexts (VirtualSMC, Lilu, WhateverGreen, AppleALC) to EFI
