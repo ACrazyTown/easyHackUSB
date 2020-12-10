@@ -14,7 +14,7 @@ If you have a system that closely resembles a Mac, Clover **might** boot macOS b
 
 ## How it Works
 The script is pretty simple.
-Everything the script does is just automate the steps found on the [Dortania Guide](https://dortania.gitbook.io).
+Everything the script does is just automate the steps found on the [Dortania Guide](https://dortania.github.io/getting-started/).
 It **does not** however make a universal bootable USB.
 The script is laid out like this:
 ### 1. - Getting Info
